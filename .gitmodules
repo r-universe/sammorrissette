@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SC2API"]
+	path = SC2API
+	url = https://github.com/sammorrissette/sc2api
+	shallow = true
+	registered = true
