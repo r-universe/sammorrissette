@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DPCD"]
+	path = DPCD
+	url = https://github.com/sammorrissette/dpcd
 [submodule "SC2API"]
 	path = SC2API
 	url = https://github.com/sammorrissette/sc2api
